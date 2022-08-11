@@ -1,0 +1,9 @@
+/* Import all taillwind components */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply Google Fonts */
+* {
+  font-family: 'Montserrat', sans-serif;
+}
